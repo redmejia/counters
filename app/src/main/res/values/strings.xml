@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Counter Widget</string>
+    <string name="widget_label">Counter Widget</string>
+    <string name="widget_counter">Counter</string>
+    <string name="widget_coffee_label">Coffee Cup Counter</string>
+    <string name="widget_coffee">Coffee Cup</string>
+</resources>
